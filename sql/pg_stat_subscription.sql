@@ -1,0 +1,1 @@
+select * pg_stat_subscription;
